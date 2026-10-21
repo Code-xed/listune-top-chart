@@ -375,10 +375,8 @@ print(data)`,
       <nav className="navbar">
         <div className="container navbar-inner">
           <a href="#" className="brand-wrapper">
-            <img src="/listune.png" alt="Listune Logo" className="brand-logo-img" />
             <div>
-              <span className="brand-name">Listune</span>
-              <span className="brand-badge">Top Chart API</span>
+              <span className="brand-name">Top Chart API</span>
             </div>
           </a>
 
@@ -1033,8 +1031,7 @@ print(data)`,
         <footer className="footer">
           <div className="footer-top">
             <div className="footer-brand">
-              <img src="/listune.png" alt="Listune Logo" className="footer-logo-img" />
-              <span>Listune Top Chart API</span>
+              <span>Top Chart API</span>
               <span style={{ color: 'var(--text-muted)', fontWeight: 'normal', fontSize: '12px' }}>
                 • Public Spotify Data API
               </span>
@@ -1052,7 +1049,7 @@ print(data)`,
                 Kworb.net
               </a>
               <a
-                href="https://github.com/listune/listune-top-chart"
+                href="https://github.com/lrmn7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="footer-link"
@@ -1070,14 +1067,14 @@ print(data)`,
 
           <div className="footer-bottom">
             <div>
-              © 2026 Listune. All rights reserved. • Made with ♥ by{' '}
+              © 2026 Top Chart API. All rights reserved. • Made with ♥ by{' '}
               <a
-                href="https://listune.app/"
+                href="https://lrmn.wtf/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: 'var(--text-secondary)', textDecoration: 'underline', textUnderlineOffset: '2px' }}
               >
-                Listune Team
+                L RMN
               </a>
             </div>
           </div>
